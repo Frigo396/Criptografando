@@ -1,0 +1,2 @@
+# Criptografando
+Rec de segurança
